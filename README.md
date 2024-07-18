@@ -50,11 +50,11 @@ Este projeto é uma aplicação simples de backend usando Node.js para gerenciar
 - **Rota:** `/users/:id`
 - **Descrição:** Atualiza o status de um pedido existente pelo ID especificado para "Pronto".
 
-  ## Demonstração da Aplicação
+### 7. Demonstração da Aplicação
 
 Assista ao vídeo abaixo para ver a aplicação em ação:
 
-[![Demonstração da Aplicação](
+
 
 https://github.com/user-attachments/assets/4114e223-69cb-4d17-beec-1ddaa4c74227
 
