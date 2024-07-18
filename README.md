@@ -50,6 +50,18 @@ Este projeto é uma aplicação simples de backend usando Node.js para gerenciar
 - **Rota:** `/users/:id`
 - **Descrição:** Atualiza o status de um pedido existente pelo ID especificado para "Pronto".
 
+  ## Demonstração da Aplicação
+
+Assista ao vídeo abaixo para ver a aplicação em ação:
+
+[![Demonstração da Aplicação](
+
+https://github.com/user-attachments/assets/4114e223-69cb-4d17-beec-1ddaa4c74227
+
+)
+
+Neste vídeo, você verá como utilizar as funcionalidades da aplicação de hamburgueria, incluindo a criação de pedidos, consulta, atualização de status, e muito mais.
+
 ## Como Testar a Aplicação
 
 1. Clone o repositório:
